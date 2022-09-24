@@ -7,9 +7,9 @@ export default function Home() {
   return (
     <div className={indexStyles.container}>
       <Head>
-        <title>All 7z</title>
+       
       </Head>
-      <h1>YO!</h1>
+      <h1>Landing | About | Highlights, like feature track, new release, news, new merch, etc...</h1>
     </div>
   )
 }
